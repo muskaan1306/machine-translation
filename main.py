@@ -3,7 +3,6 @@ from tkinter import *
 from translate import Translator
 # initializing window
 Screen = Tk()
-Screen.title("Language Translator with GUI by- TechVidvan")
 
 InputLanguageChoice = StringVar()
 TranslateLanguageChoice = StringVar()
